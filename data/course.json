@@ -1,0 +1,34 @@
+{
+  "term": "Summer",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahim-test-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-test-course"
+  },
+  "course_title": "ibrahim-test-course",
+  "hide_download": false,
+  "course_description": "ibrahim test course",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "108",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahim-test-course"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "47563e5b-a2cb-4d8f-a8ca-cb7b222fc67e",
+  "site_short_id": "ibrahim-test-course"
+}
